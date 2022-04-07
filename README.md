@@ -23,5 +23,5 @@
 
 <p><img align="center" src="" alt="aldomeza-dev" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aldomeza-dev&show_icons=true&theme=merko&cache_seconds=1800&locale=en&layout=compact)](https://github.com/aldomeza-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldomeza-dev&show_icons=true&theme=tokyonight)]
 
