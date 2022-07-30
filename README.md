@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Hotel Temtation - Original Group**
 
-- 🌱 I’m currently learning **MEAN Stack**
+- 🌱 I’m currently learning **MEVN Stack**
 
 - 👯 I’m looking to collaborate on **a software development focused company**
 
