@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">📫 How to reach me **aldomezamoreno@gmail.com**</p>
+📫 Reach me **aldomezamoreno@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
