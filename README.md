@@ -1,9 +1,9 @@
 <h1 align="center">Greatings 😁, I'm Aldo Meza!</h1>
 <h3 align="center">A software development engineer student and tech enthusiast.</h3>
 
-- 🔭 I’m currently working on **Hotel Temtation - Original Group**
+- 🔭 I’m currently studying **Software development and management engineering**
 
-- 🌱 I’m currently learning **MEVN Stack**
+- 🌱 I’m currently learning **React.Js**
 
 - 👯 I’m looking to collaborate on **a software development focused company**
 
