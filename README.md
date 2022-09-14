@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 Reach me **aldomezamoreno@gmail.com**
+- 📫 Reach me <strong>aldomezamoreno@gmail.com</strong>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -183,12 +183,4 @@
       height="40"
     />
   </a>
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aldomeza-dev&show_icons=true&theme=merko&layout=compact"
-    alt="aldomeza-dev"
-  />
 </p>
