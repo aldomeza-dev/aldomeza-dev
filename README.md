@@ -4,13 +4,13 @@
 </h3>
 
 - 🔭 I’m currently studying **Software development and management engineering**
-- 🌱 I’m currently learning **React.Js** 
-- 👯 I’m looking to collaborate on **a software development focused company** 
-- 💬 Ask me about **my current knowledge!** 
+- 🌱 I’m currently learning **On-site deployment** 
+- 👀 I’m looking to **collaborate!** 
+- 💬 Ask me about **my schedule & current projects** 
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 Reach me <strong>aldomezamoreno@gmail.com</strong>
+- 📫 Reach me <strong>contact@aldomeza.dev</strong>
 
 <h3 align="left">Languages and Tools:</h3>
 
