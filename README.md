@@ -1,4 +1,4 @@
-<h1 align="center">Greatings 😁, I'm Aldo Meza!</h1>
+<h1 align="center">Hi, I'm Aldo Meza!</h1>
 <h3 align="center">
   A software development engineer student and tech enthusiast.
 </h3>
