@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Aldo Meza!</h1>
 <h3 align="center">
-  A software development engineer student and tech enthusiast.
+  A software development engineer and tech enthusiast.
 </h3>
 
-- 🔭 I’m currently studying **Software development and management engineering**
-- 🌱 I’m currently learning **On-site deployment** 
+- 🔭 I’m currently working as **Development Lead** at **devco.mx**.
+- 🌱 I’m currently learning **Practical applications of AI & Image recognition** 
 - 👀 I’m looking to **collaborate!** 
 - 💬 Ask me about **my schedule & current projects** 
 
